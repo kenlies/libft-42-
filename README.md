@@ -12,6 +12,4 @@ Nonetheless all of the functions passed moulinette.
 
 - I've included the subject as always.
 
-<img width="662" alt="Screen Shot 2022-12-13 at 1 11 15 AM" src="https://user-images.githubusercontent.com/97135325/207177824-be94358a-3468-42d7-8e3b-fabd0b6444d2.png">
-
-<img width="651" alt="Screen Shot 2022-12-13 at 1 13 29 AM" src="https://user-images.githubusercontent.com/97135325/207178732-435d1312-aac6-4bb0-a8aa-d6dcf4891b5a.png">
+<img width="637" alt="Screen Shot 2023-05-13 at 7 10 01 PM" src="https://github.com/kenlies/libft-42-/assets/97135325/6cfc1f8a-f623-4084-ad07-3a1db3ad4bfb">

@@ -7,7 +7,7 @@ This was the first project of ours. Decided to do bonuses because why the hell n
 During our evaluations I actually managed to permanently delete my tester file, that I worked so hard to build. What happened was that I deleted my evaluatee-repo,
 that had the test file in it (didn't copy) when I was done evaluating him. :,(
 
-The functions passed moulinette.
+The functions passed moulinette with full score.
 
 - I've included the subject as always.
 

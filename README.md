@@ -8,7 +8,7 @@ During our evaluations I actually managed to permanently delete my tester file, 
 that had the test file in it (didn't copy) when I was done evaluating him. :,(
 
 It passes all testers, besides one little bug on split, that none of us could figure what causes it: run war machine and it aborts in all tests.
-Nonetheless all of the functions passed moulinette. Although one evaluator did not pass me on the third bonus function.
+Nonetheless all of the functions passed moulinette.
 
 - I've included the subject as always.
 

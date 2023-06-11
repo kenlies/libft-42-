@@ -1,6 +1,6 @@
 # libft
 
-## My hive (42) school libft project [BONUSES]
+## My hive (42) school project for libft [BONUSES]
 
 This was the first project of ours. Decided to do bonuses because why the hell not & I literally have nothing else to do lol.
 
